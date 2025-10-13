@@ -1,14 +1,29 @@
 ---
-title: "Paper Title Number 2"
+title: "Determination and characteristics of the most visible authors in multi-author publications"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2025-05-15-most-visible-authors
+excerpt: "This study investigates the determinants and behavioral patterns of the most visible authors in multi-author publications, exploring their influence on knowledge dissemination and credit allocation."
+date: 2025-05-15
+venue: 'Journal of Informetrics'
+paperurl: 'https://doi.org/10.1016/j.joi.2025.101683'
+citation: 'Li, X., Rousseau, R., & Jia, T. (2025). <i>Determination and characteristics of the most visible authors in multi-author publications.</i> <i>Journal of Informetrics</i>, 19(3), 101683. DOI: 10.1016/j.joi.2025.101683'
 ---
+This paper explores the concept of **author visibility** in the context of multi-author scientific publications.  
+We propose using Nonlinear Visibility Determination with a Modified Sigmoid Function (NVDMS) to identify the most visible authors and investigate their individual (byline order, academic age, gender), organizational (occupations), and national (affiliated country) characteristics across different years and team sizes. 
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+### Key Contributions
+- A method to measure scholars’ visibility in collaborative teams is presented. 
+- Characteristics of the most visible scholars are determined.
+- These characteristics include byline order, academic age, gender, occupations and affiliated country.
+- This is done diachronously and according to team size.
+- 
+### Authors
+Xian Li, Ronald Rousseau, Tao Jia  
+
+### Keywords
+Author visibility · Collaboration networks · Scientometrics · Multi-author publications · Research evaluation
+
+### Links
+- 📄 [Full Text (DOI: 10.1016/j.joi.2025.101683)](https://doi.org/10.1016/j.joi.2025.101683)  
+- 📘 [Journal of Informetrics](https://www.journals.elsevier.com/journal-of-informetrics)
