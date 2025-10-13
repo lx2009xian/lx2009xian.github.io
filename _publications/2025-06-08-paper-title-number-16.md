@@ -1,8 +1,8 @@
 ---
 title: "Research on exoplanets: A bibliometric study of a new research frontier"
 order: 16
-collection: manuscripts
-category: journal
+collection: publications
+category: manuscripts
 permalink: /publication/2025-02-11-exoplanets-bibliometric-study
 excerpt: "A systematic bibliometric analysis of exoplanet research using Latent Dirichlet Allocation (LDA) to uncover thematic evolution, collaboration patterns, and citation impact across this emerging field."
 date: 2025-02-11
