@@ -1,5 +1,6 @@
 ---
 title: "学术评价方法研究进展"
+order: 10
 collection: publications
 category: manuscripts
 permalink: /publication/2017-08-01-research-progress-on-academic-evaluation
