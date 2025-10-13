@@ -11,26 +11,52 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+{%- comment -%}
+  本页支持“手动排序 + 日期排序”：
+  1) 在每篇 _publications/*.md 里加 order: <number> （数字越小越靠前）
+  2) 未设置 order 的论文，按 date 倒序显示（最新在前）
+  3) 若启用了 site.publication_category，则在每个分类内部也按上述规则显示
+{%- endcomment -%}
+
+<!-- 情况 A：启用分类（_config.yml 中定义了 publication_category） -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
+  {% for category in site.publication_category %}
+    {% assign cat_key = category[0] %}
+    {% assign cat_meta = category[1] %}
+
+    {%- comment -%} 先取出当前分类下的所有论文 {%- endcomment -%}
+    {% assign cat_posts = site.publications | where: "category", cat_key %}
+
+    {%- comment -%} 分成“有 order”与“无 order”两组 {%- endcomment -%}
+    {% assign ordered_posts = cat_posts | where_exp: "p", "p.order" | sort: "order" %}
+    {% assign unordered_posts = cat_posts | where_exp: "p", "p.order == nil" | sort: "date" | reverse %}
+
+    {%- comment -%} 合并：先手动排序，再日期倒序 {%- endcomment -%}
+    {% assign merged_posts = ordered_posts | concat: unordered_posts %}
+
+    {% if merged_posts.size > 0 %}
+      <h2>{{ cat_meta.title | default: cat_key | escape }}</h2>
+      <hr />
+      {% for post in merged_posts %}
+        {% include archive-single.html %}
+      {% endfor %}
+    {% endif %}
   {% endfor %}
+
 {% else %}
-  {% for post in site.publications reversed %}
+
+  {%- comment -%} 情况 B：未启用分类，直接在全体 publications 中排序 {%- endcomment -%}
+  {% assign all_posts = site.publications %}
+
+  {%- comment -%} 分成“有 order”与“无 order”两组 {%- endcomment -%}
+  {% assign ordered_posts = all_posts | where_exp: "p", "p.order" | sort: "order" %}
+  {% assign unordered_posts = all_posts | where_exp: "p", "p.order == nil" | sort: "date" | reverse %}
+
+  {%- comment -%} 合并：先手动排序，再日期倒序 {%- endcomment -%}
+  {% assign merged_posts = ordered_posts | concat: unordered_posts %}
+
+  {% for post in merged_posts %}
     {% include archive-single.html %}
   {% endfor %}
+
 {% endif %}
-
-
-
