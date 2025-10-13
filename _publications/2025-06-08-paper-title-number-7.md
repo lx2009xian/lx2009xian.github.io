@@ -1,6 +1,7 @@
 ---
 title: "Mathematical reflections on Triple Helix calculations"
 collection: publications
+order: 7
 category: manuscripts
 permalink: /publication/2021-08-01-triple-helix-calculations
 excerpt: "This paper provides mathematical reflections and clarifications on the calculation of synergy in the Triple Helix model, improving the interpretation of information-theoretic measures in university–industry–government relations."
