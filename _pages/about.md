@@ -1,56 +1,62 @@
 ---
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+layout: home
+title: "Xian Li"
+subtitle: "Postdoctoral Research Fellow | Health Service Management | Computational Scientometrics"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+## About Me
+I am a **Postdoctoral Research Fellow (tenure-track)** at **Southwest University** and a **Research Assistant (tenure)** at **Chongqing General Hospital, Chongqing University**.  
+My research focuses on **health service management, data-driven innovation measurement, and computational scientometrics**, integrating methods from **social network analysis**, **AI text mining**, and **information science** to address real-world problems in **health and technology policy**.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+📍 **Chongqing, China** | 📱 +86-15123287705 | ✉️ [lx2009yet@cqu.edu.cn](mailto:lx2009yet@cqu.edu.cn)
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+---
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Education
+- **Ph.D. in Social Medicine and Health Service Management**, _Zhejiang University_ (2018 – 2024)  
+- **B.A. in Information Management and Information Systems**, _Zhengzhou University_ (2014 – 2018)
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+---
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Affiliations & Research Experience
+- **Postdoctoral Research Fellow (tenure-track)**, _Southwest University_ (2023.06 – 2025.08)  
+- **Research Assistant (tenure)**, _Chongqing General Hospital, Chongqing University_ (2025.08 – present)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+---
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Selected Publications (First / Corresponding Author)
+1. **Yang, R.X., Du, Y.F., Bi, C.W., & Li, X. (2025)**. *A novel method for calculating privacy leakage probability in text generated by social network users.* _Aslib Journal of Information Management_ (Q1). [🔗 Link](https://www.emerald.com/ajim/article-abstract/doi/10.1108/AJIM-03-2025-0120/1276539/A-novel-method-for-calculating-privacy-leakage?redirectedFrom=fulltext)
 
-**Markdown generator**
+2. **Li, X., Du, H.X., Bu, Y., Ai, M.S., Huang, J.J., & Jia, T. (2025)**. *Innovation lineage structure: A graph structure in publications of scholars and its association with disruptiveness.* _Journal of Informetrics_ (Q1, Accepted).
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+3. **Li, X., Zhao, D.Z., & Hu, X.J. (2020)**. *Gatekeepers in knowledge transfer between science and technology: an exploratory study in the area of gene editing.* _Scientometrics_ (Q1). [🔗 Link](https://link.springer.com/article/10.1007/s11192-020-03537-y)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+4. **Li, X., Rousseau, R., Liang, L., et al. (2022)**. *Is low interdisciplinarity of references an unexpected characteristic of Nobel Prize-winning research?* _Scientometrics_ (Q1). [🔗 Link](https://link.springer.com/article/10.1007/s11192-022-04290-0)
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+5. **Li, X., Rousseau, R., & Jia, T. (2024)**. *Determination and characteristics of most visible authors in multi-author publications.* _Journal of Informetrics_ (Q1). [🔗 Link](https://www.sciencedirect.com/science/article/pii/S1751157725000471)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+6. **Li, X., & Hu, X.J. (2024)**. *Tracking direct and indirect impact on technology and policy of transformative research via ego citation network.* _Journal of Data and Information Science_ (Q2). [🔗 Link](https://sciendo.com/article/10.2478/jdis-2024-0018)
+
+7. **Yang, R.X., & Li, X. (2019)**. *The correlation study of scientific collaboration and the influence of paper.* _Journal of Modern Information Management_ (CSSCI, Chinese). [🔗 Link](https://www.xdqb.net/CN/10.3969/j.issn.1008-0821.2019.04.015)
+
+---
+
+## Research Projects
+- **China Postdoctoral Science Foundation (74th General Grant, 2023 – 2025)**  · Principal Investigator  
+- **China National Postdoctoral Program for Innovative Talent (2024 – 2025)**  · Principal Investigator  
+- **Natural Science Foundation of Chongqing (2025 – present)**  · Principal Investigator  
+- **National Natural Science Foundation of China (2020 – 2023)**  · Key Participant
+
+---
+
+## Professional Service
+Peer reviewer for:  
+_Scientometrics_, _Journal of Information Science_, _Technology Analysis & Strategic Management_, _Journal of Data and Information Science_, _Journal of the China Society for Scientific and Technical Information_, _Information Studies: Theory & Application_.
+
+---
+
+## Awards & Honors
+- **National Doctoral Scholarship** (2020)  
+- **Outstanding Graduate**, _Zhejiang University_  
+- **Excellent Graduate Student, Student Leader & Triple-A Student**, _Zhejiang University (2018 – 2022)_
