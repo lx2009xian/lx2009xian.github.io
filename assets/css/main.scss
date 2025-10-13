@@ -41,32 +41,4 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* === Custom font overrides (put at the very end) === */
 
-/* 为拉丁字符优先用 Times；当遇到中文时，Times 没有字形，会自动回退到楷体 */
-:root {
-  --latin-font: "Times New Roman", Times, serif;
-  --cjk-font: "KaiTi", "STKaiti", "Kaiti SC", "KaiTi_GB2312", serif; /* 兼容 Win/macOS/早期中文系统 */
-}
-
-/* 全站正文字体 */
-body {
-  font-family: var(--latin-font), var(--cjk-font);
-}
-
-/* 标题、正文块统一继承（避免主题给标题单独指定了别的字体） */
-h1, h2, h3, h4, h5, h6,
-p, li, blockquote, figcaption,
-nav, .site-title, .site-nav, .page-title, .archive__subtitle {
-  font-family: inherit;
-}
-
-/* 代码块保持等宽字体，不要被上面的规则影响 */
-code, pre, kbd, samp {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace !important;
-}
-
-/* 不要覆盖 Font Awesome 图标字体 */
-.fa, .fas, .far, .fal, .fab {
-  font-family: "Font Awesome 5 Free", "Font Awesome 5 Brands" !important;
-}
