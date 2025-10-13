@@ -1,6 +1,6 @@
 ---
 title: "Do ‘rejuvenated’ articles exist?"
-order：15
+order: 15
 collection: talks
 type: "Conference presentation"
 permalink: /talk/2019-11-01-rejuvenated-articles
