@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
+<br><br>
 
 # 👋 Introduction
 
