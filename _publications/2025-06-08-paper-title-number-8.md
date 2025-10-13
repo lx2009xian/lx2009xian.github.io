@@ -1,7 +1,7 @@
 ---
 title: "Describing Citations as a Function of Time"
 collection: publications
-order: 8
+order: 9
 category: manuscripts
 permalink: /publication/2020-05-01-citations-as-function-of-time
 excerpt: "This study models how citations evolve over time, introducing mathematical functions to describe citation accumulation patterns across scientific disciplines."
