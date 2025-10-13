@@ -1,5 +1,6 @@
 ---
 title: "Innovation lineage structure: A graph structure in publications of scholars and its association with disruptiveness"
+order: 1
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-15-innovation-lineage-structure
