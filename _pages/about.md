@@ -18,8 +18,6 @@ I’m particularly interested in understanding how information, innovation, and 
 
 You are welcome to reach out if you’d like to collaborate on **data-driven studies in social and health sciences**.
 
-📍 **Chongqing, China**  ✉️ **lx2009yet@cqu.edu.cn**
-
 ---
 
 ## 🎓 Education & Experience
