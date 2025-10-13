@@ -1,5 +1,6 @@
 ---
 title: "Understanding more about non-patent references"
+order: 17
 collection: publications
 category: journal
 permalink: /publication/2025-01-01-non-patent-references
