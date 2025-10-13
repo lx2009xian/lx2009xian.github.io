@@ -2,7 +2,7 @@
 title: "Do ‘rejuvenated’ articles exist?"
 order: 15
 collection: talks
-type: "Conference presentation"
+type: "Conferences"
 permalink: /talk/2019-11-01-rejuvenated-articles
 venue: "The 15th International Conference on Webometrics, Informetrics, & Scientometrics (WIS) & the 20th COLLNET Meeting"
 location: "Dalian, China"
