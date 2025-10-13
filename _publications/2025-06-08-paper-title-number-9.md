@@ -1,7 +1,7 @@
 ---
 title: "科学合作与论文影响力之间的相关性研究"
 collection: publications
-order: 9
+order: 8
 category: manuscripts
 permalink: /publication/2019-04-01-scientific-collaboration-impact
 excerpt: "本研究基于多学科文献数据，探讨科学合作程度与论文学术影响力之间的关系，揭示合作网络结构对科研产出的潜在影响机制。"
