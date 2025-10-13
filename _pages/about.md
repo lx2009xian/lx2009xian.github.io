@@ -72,7 +72,7 @@ You are welcome to reach out if you’d like to collaborate on **data-driven stu
    *Tracking direct and indirect impact on technology and policy of transformative research via ego citation network.*  
    *Journal of Data and Information Science.* (JCR Q2) — [Link](https://sciendo.com/article/10.2478/jdis-2024-0018)
 
-7. **Yang, R.X., & Li, X**.** (2019).  
+7. Yang, R.X., & **Li, X**.** (2019).  
    *The correlation study of scientific collaboration and the influence of paper.*  
    *Journal of Modern Information.* (CSSCI, in Chinese)
 
