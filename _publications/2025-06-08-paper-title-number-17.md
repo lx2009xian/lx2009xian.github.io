@@ -2,7 +2,7 @@
 title: "Understanding more about non-patent references"
 order: 17
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2025-01-01-non-patent-references
 excerpt: "This paper compares the characteristics of non-patent references (NPRs) traced from patents on metabolic engineering with those of the top 10% most-cited articles in the same field, revealing their distinct role in linking science and technology."
 date: 2025-01-01
