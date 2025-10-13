@@ -1,5 +1,6 @@
 ---
 title: "Tracking direct and indirect impact on technology and policy of transformative research via ego citation network"
+order: 6
 collection: publications
 category: manuscripts
 permalink: /publication/2024-08-01-ego-citation-network-impact
