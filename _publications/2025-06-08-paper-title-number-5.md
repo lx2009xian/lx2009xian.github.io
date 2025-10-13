@@ -1,7 +1,7 @@
 ---
 title: "Gatekeepers in knowledge transfer between science and technology: an exploratory study in the area of gene editing"
 collection: publications
-order: 5
+order: 4
 category: manuscripts
 permalink: /publication/2020-06-01-gatekeepers-gene-editing
 excerpt: "This exploratory study identifies and characterizes gatekeepers who facilitate knowledge transfer between scientific research and technological innovation, using gene editing as a case study."
