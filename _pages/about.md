@@ -47,7 +47,7 @@ You are welcome to reach out if you’d like to collaborate on **data-driven stu
 
 2. **Li, X.**, Du, H.X., Bu, Y., Ai, M.S., Huang, J.J., & Jia, T.** (2025).  
    *Innovation lineage structure: A graph structure in publications of scholars and its association with disruptiveness.*  
-   *Journal of Informetrics.* (Accepted, JCR Q1)
+   *Journal of Informetrics.* (JCR Q1)
 
 3. **Li, X.**, Zhao, D.Z., & Hu, X.J.** (2020).  
    *Gatekeepers in knowledge transfer between science and technology: An exploratory study in the area of gene editing.*  
