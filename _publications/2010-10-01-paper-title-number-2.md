@@ -1,6 +1,7 @@
 ---
 title: "Determination and characteristics of the most visible authors in multi-author publications"
 collection: publications
+order: 2
 category: manuscripts
 permalink: /publication/2025-05-15-most-visible-authors
 excerpt: "This study investigates the determinants and behavioral patterns of the most visible authors in multi-author publications, exploring their influence on knowledge dissemination and credit allocation."
