@@ -1,6 +1,7 @@
 ---
 title: "Is low interdisciplinarity of references an unexpected characteristic of Nobel Prize winning research?"
 collection: publications
+order: 3
 category: manuscripts
 permalink: /publication/2022-02-01-nobel-prize-interdisciplinarity
 excerpt: "This study investigates whether Nobel Prize–winning research exhibits an unexpected pattern of low interdisciplinarity in its cited references, exploring the cognitive and social structures behind groundbreaking discoveries."
