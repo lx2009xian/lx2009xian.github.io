@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "Xian Li.jpg"
   name             : "Xian Li"
   pronouns         : # example: "she/her"  
   bio              : "Serve as a Research Assistant"
