@@ -6,9 +6,9 @@ category: manuscripts
 permalink: /publication/2025-01-01-non-patent-references
 excerpt: "This paper compares the characteristics of non-patent references (NPRs) traced from patents on metabolic engineering with those of the top 10% most-cited articles in the same field, revealing their distinct role in linking science and technology."
 date: 2025-01-01
-venue: "Journal Article"
+venue: "Data Science and Informetrics"
 authors: "Xiaojun Hu, Yushuang Lv, Zixuan Zhao, Xian Li"
-citation: "Hu, X., Lv, Y., Zhao, Z., & Li, X. (2025). *Understanding more about non-patent references.* Journal Article."
+citation: "Hu, X., Lv, Y., Zhao, Z., & Li, X. (2025). *Understanding more about non-patent references.* Data Science and Informetrics."
 ---
 
 **Non-patent references (NPRs)** play an important role in the interaction between **science** and **technology**.  
