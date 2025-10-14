@@ -54,19 +54,19 @@ You are welcome to reach out if you’d like to collaborate on **data-driven stu
 
 2. **Li, X.**, Du, H.X., Bu, Y., Ai, M.S., Huang, J.J., & Jia, T.** (2025).  
    *Innovation lineage structure: A graph structure in publications of scholars and its association with disruptiveness.*  
-   *Journal of Informetrics.* (JCR Q1)
+   *Journal of Informetrics.* (JCR Q1)— [Link](https://www.sciencedirect.com/science/article/pii/S1751157725000926)
 
-3. **Li, X.**, Zhao, D.Z., & Hu, X.J.** (2020).  
+3.**Li, X.**, Rousseau, R., & Jia, T.** (2024).  
+   *Determination and characteristics of most visible authors in multi-author publications.*  
+   *Journal of Informetrics.* (JCR Q1) — [Link](https://www.sciencedirect.com/science/article/pii/S1751157725000471)
+   
+4. **Li, X.**, Zhao, D.Z., & Hu, X.J.** (2020).  
    *Gatekeepers in knowledge transfer between science and technology: An exploratory study in the area of gene editing.*  
    *Scientometrics.* (JCR Q1) — [Link](https://link.springer.com/article/10.1007/s11192-020-03537-y)
 
-4. **Li, X.**, Rousseau, R., Liang, L., et al.** (2022).  
+5. **Li, X.**, Rousseau, R., Liang, L., et al.** (2022).  
    *Is low interdisciplinarity of references an unexpected characteristic of Nobel Prize-winning research?*  
    *Scientometrics.* (JCR Q1) — [Link](https://link.springer.com/article/10.1007/s11192-022-04290-0)
-
-5. **Li, X.**, Rousseau, R., & Jia, T.** (2024).  
-   *Determination and characteristics of most visible authors in multi-author publications.*  
-   *Journal of Informetrics.* (JCR Q1) — [Link](https://www.sciencedirect.com/science/article/pii/S1751157725000471)
 
 6. **Li, X.**, & Hu, X.J.** (2024).  
    *Tracking direct and indirect impact on technology and policy of transformative research via ego citation network.*  
