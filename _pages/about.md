@@ -56,7 +56,7 @@ You are welcome to reach out if you’d like to collaborate on **data-driven stu
    *Innovation lineage structure: A graph structure in publications of scholars and its association with disruptiveness.*  
    *Journal of Informetrics.* (JCR Q1)— [Link](https://www.sciencedirect.com/science/article/pii/S1751157725000926)
 
-3.**Li, X.**, Rousseau, R., & Jia, T.** (2024).  
+3. **Li, X.**, Rousseau, R., & Jia, T.** (2024).  
    *Determination and characteristics of most visible authors in multi-author publications.*  
    *Journal of Informetrics.* (JCR Q1) — [Link](https://www.sciencedirect.com/science/article/pii/S1751157725000471)
    
