@@ -6,10 +6,10 @@ category: manuscripts
 permalink: /publication/2025-02-11-exoplanets-bibliometric-study
 excerpt: "A systematic bibliometric analysis of exoplanet research using Latent Dirichlet Allocation (LDA) to uncover thematic evolution, collaboration patterns, and citation impact across this emerging field."
 date: 2025-02-11
-venue: "Chinese Journal of Science and Information Management"
+venue: "COLLNET Journal of Scientometrics and Information Management "
 paperurl: "https://doi.org/10.47974/CJSIM-2023-0021"
 authors: "Xiaojun Hu, Zhixian Ye, Fangjie Xi, Xian Li, Ronald Rousseau*"
-citation: "Hu, X., Ye, Z., Xi, F., Li, X., & Rousseau, R. (2025). *Research on exoplanets: A bibliometric study of a new research frontier.* Chinese Journal of Science and Information Management, 65(1), 137–154. https://doi.org/10.47974/CJSIM-2023-0021"
+citation: "Hu, X., Ye, Z., Xi, F., Li, X., & Rousseau, R. (2025). *Research on exoplanets: A bibliometric study of a new research frontier.* COLLNET Journal of Scientometrics and Information Management, 65(1), 137–154. https://doi.org/10.47974/CJSIM-2023-0021"
 ---
 
 We conduct a systematic analysis of scientific publications in the emerging research frontier of **exoplanets**.  
