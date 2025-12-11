@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, I'm **Xian Li (李贤)**, currently a **Research Assistant (tenure)** at **Chongqing University, Chongqing General Hospital**, and a **Postdoctoral Research Fellow (tenure-track)** at **Southwest University**, Chongqing, China.
 
-I received my **Ph.D. in Social Medicine and Health Service Management** from **Zhejiang University** in 2024, and my **B.A. in Information Management and Information Systems** from **Zhengzhou University** in 2018.  
+I received my **Ph.D. in Social Medicine and Health Service Management** from **Zhejiang University** in 2023, and my **B.A. in Information Management and Information Systems** from **Zhengzhou University** in 2018.  
 
 My research interests lie broadly in **computational social science**, **scientometrics**, **innovation networks**, and **graph-based representation learning**.  
 I’m particularly interested in understanding how information, innovation, and collaboration propagate through complex social and knowledge systems.
