@@ -82,7 +82,8 @@ You are welcome to reach out if you’d like to collaborate on **data-driven stu
 
 - *China Postdoctoral Science Foundation*, 74th General Grant (2023 – 2025) — **PI**  
 - *China National Postdoctoral Program for Innovative Talent* (2024 – 2025) — **PI**  
-- *Natural Science Foundation of Chongqing, China* (2025 – present) — **PI**  
+- *Natural Science Foundation of Chongqing, China* (2025 – present) — **PI**
+- *Social Science Foundation of Chongqing, China* (2025 – present) — **PI** 
 - *National Natural Science Foundation of China, General Project* (2020 – 2023) — **Key Participant**
 
 ---
