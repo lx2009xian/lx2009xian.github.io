@@ -102,5 +102,5 @@ You are welcome to reach out if you’d like to collaborate on **data-driven stu
 
 ---
 
-_Updated in Oct 2025_
+_Updated in Dec 2025_
 
