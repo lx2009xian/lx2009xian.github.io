@@ -84,6 +84,7 @@ You are welcome to reach out if you’d like to collaborate on **data-driven stu
 - *China National Postdoctoral Program for Innovative Talent* (2024 – 2025) — **PI**  
 - *Natural Science Foundation of Chongqing, China* (2025 – present) — **PI**
 - *Social Science Foundation of Chongqing, China* (2025 – present) — **PI** 
+- *Higher Education Scientific Research Projects of Chongqing Higher Education Association* (2025-present) — **Key Participant**
 - *National Natural Science Foundation of China, General Project* (2020 – 2023) — **Key Participant**
 
 ---
